@@ -16,7 +16,7 @@ DeepTrade.ml is a free and open-source ML/DL framework for trading agents on Met
 - Extreme performance
 - 3rd Party integrations
 - Deep Learning Agents Strategies
-- Trade Ready with Metatrader5/Metatrader4 with [PyTrader](https://github.com/TheSnowGuru/PyTrader-python-mt4-trading-api-connector) 
+- Trade Ready with Metatrader5/Metatrader4 with [PyTrader](https://github.com/TheSnowGuru/PyTrader-python-mt4-mt5-trading-api-connector-drag-n-drop) 
 - Coolest Charts & Plots rendering on your browswer!
 - Translated in 15 languages
 - Ready Enviroment on [gitpod](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki) use extension.
