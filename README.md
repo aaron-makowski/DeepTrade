@@ -25,7 +25,7 @@ DeepTrade.ml is a free and open-source ML/DL framework for trading agents on Met
 
 ## Downloading a release
 
-DeepTrade is available for all platforms (Linux, macOS, Windows).
+DeepTrade is available for all platforms (macOS, Windows, Linux).
 You can download the latest release [here](https://github.com/radareorg/cutter/releases).
  * macOS: Download the latest [Homebrew Cask](https://github.com/Homebrew/homebrew-cask) `brew cask install deepTrade.ml`.
  * Windows: Download the latest Zip archive.
